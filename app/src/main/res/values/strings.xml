@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BaiTap02</string>
+    <string name="crypto_market_title">Cryptocurrency Prices by Market Cap</string>
+    <string name="btn_reload">Reload API</string>
+    <string name="btn_retry">Thử lại</string>
+    <string name="favorite_desc">Toggle Favorite</string>
+    <string name="cd_logo">%1$s logo</string>
+    <string name="column_rank">#</string>
+    <string name="column_coin">Coin</string>
+    <string name="column_price">Price</string>
+    <string name="column_1h">1h</string>
+    <string name="column_24h">24h</string>
+    <string name="column_7d">7d</string>
+    <string name="column_volume">24h Volume</string>
+    <string name="column_market_cap">Market Cap</string>
+    <string name="column_last_7d">Last 7 Days</string>
+    <string name="err_network">Lỗi kết nối mạng: %1$s</string>
+    <string name="err_unknown">Không thể tải dữ liệu: %1$s</string>
+</resources>
